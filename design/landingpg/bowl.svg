@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="153px" viewBox="0 0 336 153" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>bowl</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2B0DFF" offset="0%"></stop>
+            <stop stop-color="#0F0766" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-559.000000, -610.000000)" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(412.000000, 180.000000)">
+                <g id="riceimg" transform="translate(23.000000, 0.000000)">
+                    <path d="M225.858539,430.43 L362.886384,430.43 C366.268626,430.43 369.421662,432.139662 371.266954,434.974174 L457.529982,567.48084 C460.543152,572.109301 459.2337,578.304067 454.605238,581.317237 C452.981861,582.37407 451.086484,582.936667 449.149412,582.936667 L134.281461,582.936667 C128.758613,582.936667 124.281461,578.459514 124.281461,572.936667 C124.281461,570.905378 124.900062,568.922256 126.054942,567.251213 L217.63202,434.744546 C219.499297,432.042705 222.574232,430.43 225.858539,430.43 Z" id="bowl" transform="translate(291.716018, 506.683333) scale(1, -1) translate(-291.716018, -506.683333) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
