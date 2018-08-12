@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="602px" height="602px" viewBox="0 0 602 602" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>orb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="48.5723795%" cy="51.7595642%" fx="48.5723795%" fy="51.7595642%" r="101.336551%" gradientTransform="translate(0.485724,0.517596),scale(1.000000,0.999412),rotate(90.000000),translate(-0.485724,-0.517596)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#210BCB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-435.000000, -180.000000)" fill="url(#radialGradient-1)">
+            <g id="Group" transform="translate(412.000000, 180.000000)">
+                <g id="riceimg" transform="translate(23.000000, 0.000000)">
+                    <ellipse id="orb" cx="300.823045" cy="301" rx="300.823045" ry="301"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
