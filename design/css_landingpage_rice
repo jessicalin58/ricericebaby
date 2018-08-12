@@ -1,0 +1,633 @@
+.desktophdcopy9 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktophdcopy9 .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1024px;
+  left                : -1px;
+  width               : 1440px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  left                : 1318px;
+  width               : auto;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Faune-DisplayBoldItalic", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.16px;
+  line-height         : 32.0px;
+}
+.desktophdcopy9 .ricestrologycopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  left                : 38px;
+  width               : auto;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Faune-DisplayBoldItalic", Helvetica, Arial, serif;
+  font-size           : 45.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.16px;
+  line-height         : 60.0px;
+}
+.desktophdcopy9 .solveitwithrice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 839px;
+  height              : auto;
+  left                : 590px;
+  width               : auto;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Lato-LightItalic", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.24px;
+  line-height         : 44.0px;
+}
+.desktophdcopy9 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 912px;
+  height              : 60px;
+  left                : 652px;
+  width               : 160px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group2 .rectangle3 {
+  background-color    : rgba(80, 226, 193, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  left                : 0px;
+  width               : 160px;
+  margin              : 0;
+  position            : absolute;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(80, 226, 193, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group2 .go {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  left                : 65px;
+  width               : auto;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Lato-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.09px;
+  line-height         : 24.0px;
+}
+.desktophdcopy9 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 602px;
+  left                : 412px;
+  width               : 755px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 602px;
+  left                : 23px;
+  width               : 732px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .orb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 602px;
+  left                : 0px;
+  width               : 602px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .ricefoam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 434px;
+  left                : 133px;
+  width               : 524px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .ricefoam .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 276px;
+  left                : 0px;
+  width               : 463px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .ricefoam .oval2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 370px;
+  left                : 76px;
+  width               : 448px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .ricefoam .oval2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 192px;
+  left                : 37px;
+  width               : 363px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .rice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 190px;
+  height              : 179px;
+  left                : 144px;
+  width               : 334px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 41px;
+  left                : 292px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(222deg); /* IE 9 */
+  -webkit-transform   : rotate(222deg); /* Chrome, Safari, Opera */
+  transform           : rotate(222deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 133px;
+  height              : 41px;
+  left                : 126px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(15deg); /* IE 9 */
+  -webkit-transform   : rotate(15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(15deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 41px;
+  left                : 100px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : 41px;
+  left                : 186px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(15deg); /* IE 9 */
+  -webkit-transform   : rotate(15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(15deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 41px;
+  left                : 145px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : 41px;
+  left                : 292px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(222deg); /* IE 9 */
+  -webkit-transform   : rotate(222deg); /* Chrome, Safari, Opera */
+  transform           : rotate(222deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 41px;
+  left                : 81px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 41px;
+  left                : 26px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(15deg); /* IE 9 */
+  -webkit-transform   : rotate(15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(15deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : 41px;
+  left                : 212px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(15deg); /* IE 9 */
+  -webkit-transform   : rotate(15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(15deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 41px;
+  left                : 232px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 99px;
+  height              : 41px;
+  left                : 306px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(222deg); /* IE 9 */
+  -webkit-transform   : rotate(222deg); /* Chrome, Safari, Opera */
+  transform           : rotate(222deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : 41px;
+  left                : 170px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 41px;
+  left                : 172px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(50deg); /* IE 9 */
+  -webkit-transform   : rotate(50deg); /* Chrome, Safari, Opera */
+  transform           : rotate(50deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 41px;
+  left                : 13px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 41px;
+  left                : 100px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(15deg); /* IE 9 */
+  -webkit-transform   : rotate(15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(15deg);
+}
+.desktophdcopy9 .group .riceimg .rice .rectangle2copy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 41px;
+  left                : 245px;
+  width               : 16px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(40deg); /* IE 9 */
+  -webkit-transform   : rotate(40deg); /* Chrome, Safari, Opera */
+  transform           : rotate(40deg);
+}
+.desktophdcopy9 .group .riceimg .bowl {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 153px;
+  left                : 124px;
+  width               : 335px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .chopsticks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 304px;
+  left                : 423px;
+  width               : 308px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .riceimg .chopsticks .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -11px;
+  height              : 364px;
+  left                : 162px;
+  width               : 18px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(46deg); /* IE 9 */
+  -webkit-transform   : rotate(46deg); /* Chrome, Safari, Opera */
+  transform           : rotate(46deg);
+}
+.desktophdcopy9 .group .riceimg .chopsticks .rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -31px;
+  height              : 364px;
+  left                : 108px;
+  width               : 18px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(37deg); /* IE 9 */
+  -webkit-transform   : rotate(37deg); /* Chrome, Safari, Opera */
+  transform           : rotate(37deg);
+}
+.desktophdcopy9 .group .sparkles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 229px;
+  left                : 0px;
+  width               : 591px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .sparkles .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 79px;
+  left                : 17px;
+  width               : 51px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .sparkles .path4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 79px;
+  left                : 539px;
+  width               : 51px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .group .sparkles .path4copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : 53px;
+  left                : 0px;
+  width               : 34px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy9 .anxiousaboutthefu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 794px;
+  height              : auto;
+  left                : 491px;
+  width               : 484px;
+  margin              : 0;
+  position            : absolute;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Faune-DisplayBoldItalic", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.16px;
+  line-height         : 53.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@-moz-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@-o-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
