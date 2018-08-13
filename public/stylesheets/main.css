@@ -14,7 +14,7 @@
   font-weight: bold;
   font-style: italic;
 }
-/* 
+/*
 @font-face {
   font-family: 'Faune Text';
   src: url('../assets/fonts/Faune-TextBold.woff2') format('woff2'),
@@ -117,20 +117,18 @@ body {
     /* .demo-container {
         background: #131112;
     } */
-    #image {
-        /* position: absolute; */
-        /* left: -1000px;
-        top: -1000px; */
-        width: 400px;
-        height: auto;
+    #img, #canvas {
+      width: 100%;
+      height: auto;
+      max-height: 60vh;
+      display: block;
+      margin: auto;
+      border-radius: 1em;
     }
+
     #canvas {
-        background-color: white;
-        display: none;
-      
-        /* -webkit-box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1);
-        -moz-box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1);
-        box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1); */
+      display: none;
+      /*background-color: white;*/
     }
 
     .results {
@@ -197,6 +195,10 @@ body {
   letter-spacing: 1.5px;
 }
 
+#uploadpic , #track, #redo {
+  width: 100%;
+}
+
 #uploadnew{
   border-color:  #58e2c2;
   border-width: 1px solid #ccc;
@@ -208,6 +210,7 @@ body {
   font-size: 1em;
   letter-spacing: 1.5px;
   text-transform: uppercase;
+  width: 100%;
 }
 
 #uploadnew:hover {
@@ -242,7 +245,7 @@ body {
 }
 
 .output {
- margin-bottom: 3em; 
+ margin-bottom: 3em;
 }
 
 .upload-body p {
