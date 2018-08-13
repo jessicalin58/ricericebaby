@@ -1,0 +1,343 @@
+/* Fonts */
+
+/* @font-face {
+  font-family: 'Faune';
+  src: url('../assets/fonts/Faune-DisplayBlack.woff2') format('woff2'), url('../assets/fonts/Faune-DisplayBlack.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: 'Faune';
+  src: url('../assets/fonts/Faune-DisplayBoldItalic.ttf') format('ttf'),
+  url('../assets/fonts/Faune-DisplayBoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+/* 
+@font-face {
+  font-family: 'Faune Text';
+  src: url('../assets/fonts/Faune-TextBold.woff2') format('woff2'),
+  url('../assets/fonts/Faune-TextBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Faune';
+  src: url('../assets/fonts/Faune-DisplayThin.woff2') format('woff2'),
+  url('../assets/fonts/Faune-DisplayThin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Faune Text';
+  src: url('../assets/fonts/Faune-TextItalic.woff2') format('woff2'),
+  url('../assets/fonts/Faune-TextItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Faune Text';
+  src: url('../assets/fonts/Faune-TextRegular.woff2') format('woff2'),
+  url('./assets/fonts/Faune-TextRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}  */
+
+
+/* //Navbar */
+.right {
+  float: right;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #000;
+  background: radial-gradient(circle, #180898, #D8D8D8);
+  height: 100%;
+  margin: 2em;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.splash {
+  text-align: center;
+}
+
+.jumbotron {
+  background: #532F8C;
+  color: white;
+  padding-bottom: 80px; }
+  .jumbotron .btn-primary {
+    background: #845ac7;
+    border-color: #845ac7; }
+    .jumbotron .btn-primary:hover {
+      background: #7646c1; }
+  .jumbotron p {
+    color: #d9ccee;
+    max-width: 75%;
+    margin: 1em auto 2em; }
+  .navbar + .jumbotron {
+    margin-top: -20px; }
+  .jumbotron .lang-logo {
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid white; }
+    .jumbotron .lang-logo img {
+      max-width: 100%; }
+
+
+          .rect {
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        left: -1000px;
+        top: -1000px;
+    }
+
+    #ricePic {
+        width: 580px;
+        height: auto;
+        /* position: absolute;
+        left: -1000px;
+        top: -1000px; */
+    }
+
+    /* .demo-container {
+        background: #131112;
+    } */
+    #image {
+        /* position: absolute; */
+        /* left: -1000px;
+        top: -1000px; */
+        width: 400px;
+        height: auto;
+    }
+    #canvas {
+        background-color: white;
+        display: none;
+      
+        /* -webkit-box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1);
+        -moz-box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1);
+        box-shadow: 10px 3px 36px 0px rgba(166, 166, 166, 1); */
+    }
+
+    .results {
+      display: none;
+    }
+
+    /* #rice, #track {
+      display: none;
+    } */
+
+
+/* MODAL */
+#redo {
+  display: none;
+}
+/* .text {
+  background-color: white;
+  margin: 0 auto;
+  width: 50%;
+  position: relative;
+  text-align: center;
+
+} */
+
+.navbar-brand {
+  font-family: 'Faune';
+  color: white;
+  /* font-weight: 600; */
+  cursor: pointer;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  letter-spacing: 1.3px;
+}
+
+.navbar-brand:hover {
+  color: #1c19a4;
+}
+
+.splash_text {
+  color: white;
+  font-family: 'Helvetica';
+  font-weight: 200;
+  font-size: 1.4em;
+  line-height: 1.1;
+  margin-top: 1.2em;
+  margin-bottom: 1em;
+  font-weight: 100;
+
+}
+.splash_text bold  {
+    font-family: 'Faune';
+
+}
+
+#go, #uploadpic , #track, #redo{
+  background-color: #58e2c2;
+  border-radius: .4em;
+  color: white;
+  padding: 0.6em 2.5em 0.5em 2.5em;
+  border-color: transparent;
+  margin: .2em;
+  font-size: 1em;
+  letter-spacing: 1.5px;
+}
+
+#uploadnew{
+  border-color:  #58e2c2;
+  border-width: 1px solid #ccc;
+  background-color: transparent;
+  border-radius: .4em;
+  color: white;
+  padding: 0.6em 2.5em 0.5em 2.5em;
+  margin: .2em;
+  font-size: 1em;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+#uploadnew:hover {
+  color: white;
+  background-color: #58e2c2;
+}
+
+.upload-title {
+  font-family: 'Faune';
+  color: white;
+  font-size: 1.3em;
+}
+
+.upload-body {
+  font-family: 'Helvetica';
+  color: white;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+.uploadpic {
+  margin-top: 10%;
+}
+
+#svg-upload {
+  height: 80%;
+  width: 80%;
+}
+
+#fate {
+  margin-bottom: 2em;
+}
+
+.output {
+ margin-bottom: 3em; 
+}
+
+.upload-body p {
+  font-size: 1.2em;
+  line-height: 1;
+}
+
+.output {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.upload-body p:last-child {
+  margin-bottom: 2em;
+}
+
+.center {
+  text-align: center;
+}
+
+.about-title {
+  font-family: 'Faune';
+  color: white;
+  font-size: 1.7em;
+  margin-bottom: 1.4em;
+}
+
+.about-sub {
+    /* font-family: 'Faune'; */
+    color: white;
+    font-size: 1.2em;
+}
+.about-sub a {
+  /* font-family: 'Faune'; */
+  color: white;
+  text-decoration: underline;
+}
+
+.about-subtitle {
+  width: 50%;
+  margin: auto;
+  font-family: 'Helvetica';
+  font-weight: 100;
+  padding-bottom: 2em;
+}
+
+.profile-title,
+.profile-job {
+  color: white;
+    font-family: 'Helvetica';
+    font-weight: 100;
+    font-size: 1.2em;
+}
+
+.profile-pic img {
+  width: 60%;
+}
+
+.profile-title p:first-child {
+  margin-bottom: 0;
+}
+.profile-title i {
+    text-decoration: underline;
+
+}
+
+.tiff, .edu, .jess, .brian {
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width: 800px) {
+  #image {
+    margin-top: 4em;
+  }
+  body {
+    overflow-y: auto;
+  }
+  .demo-container {
+    overflow: hidden;
+  }
+
+  .about-subtitle {
+    width: 80%;
+    text-align: center;
+    margin-bottom: 4em;
+    padding-bottom: 0;
+  }
+  .profile-pic img {
+    width: 46%;
+  }
+
+  /* .navbar-brand {
+    font-size: 3.5em;
+  } */
+
+}
+

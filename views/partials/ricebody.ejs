@@ -1,0 +1,35 @@
+
+
+<div class="container uploadpic">
+    <div class="row">
+        <div class="col-md-8">
+            <img id="svg-upload" src="assets/ricelanding.svg" />
+        </div>
+        <div class="col-md-4">
+            <div class="upload-title">
+                <h1>Consult the rice</h1>
+            </div>
+            <div class="upload-body">
+                <i>
+                <p>Take a bag of rice.</p>
+                <p>Toss the rice onto a flat surface.</p>
+                <p>Snap and upload a picture of your</p>
+                <p>lovely rice for a free consultation.</p>
+               </i>
+                <!-- <button id="uploadpic"> upload pic</button> -->
+                <!-- Get Image from an upload -->
+                <form ref='uploadForm' id='uploadForm' action='/upload' method='post' encType="multipart/form-data">
+                    <input  type="file" name="sampleFile" />
+                    <input id="uploadpic" type='submit' value='Upload!' />
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
